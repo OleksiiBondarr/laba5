@@ -1,3 +1,4 @@
+
 import numpy as np
 import matplotlib.pyplot as plt
 import func
@@ -5,6 +6,7 @@ import mag
 n = 8
 x_zn = np.zeros(n)
 y_zn = np.zeros(n)
+#interval a - b
 a = 0.1
 b = 0.15
 h = (b - a) / (n - 1)
